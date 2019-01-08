@@ -1,4 +1,4 @@
-exports.TOKEN = 'NTMyMjQ4NTI3Njk5NTc0Nzg0.DxZu1w.xY2pnPyALN03dNz1IaZbu91mPBs'; // حط توكن البوت هنا
+exports.TOKEN = 'NTMyMjYwNTEwNTQwNzU5MDQy.DxZ6Hg.NKjnY_nsP7q0RqEeNpRxu83mH4c'; // حط توكن البوت هنا
 
 exports.PREFIX = '-';//برفكس البوت هو يلي بيشغل لاغاني
 
